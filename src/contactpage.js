@@ -70,7 +70,7 @@ const ConatctForFreelancing = () => {
           width="30px"
           className="pb-1"
         />{" "}
-        Services I provide
+        Services and tools I worked on
       </p>
       <ol
         className="aos-removal-class"
@@ -79,11 +79,11 @@ const ConatctForFreelancing = () => {
         data-aos-duration="1000"
         data-aos-delay="800"
       >
-        <li>Web Design</li>
-        <li>Frontend Web App Using React</li>
-        <li>Full Stack Web App Using MERN Stack</li>
-        <li>Android App Design Using Flutter</li>
-        <li>Full Stack Android App Using Flutter</li>
+        <li>AWS</li>
+        <li>CI-CD pipeline using jenkins, Bamboo and Teamcity</li>
+        <li>Deployment using Ansible</li>
+        <li>Blue-Green deployment using Repliweb</li>
+        <li>Creating Infrastructure using Terraform</li>
       </ol>
 
       <a
