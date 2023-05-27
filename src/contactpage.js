@@ -53,7 +53,7 @@ const ConatctForFreelancing = () => {
         data-aos-duration="1000"
         data-aos-delay="500"
       >
-        Want to Hire me as a Freelancer? Send me an email with relevant
+        Want to Enroll? Please Send me an email with relevant
                 information and I will get back to you as soon as possible!
       </p>
 
@@ -70,7 +70,7 @@ const ConatctForFreelancing = () => {
           width="30px"
           className="pb-1"
         />{" "}
-        Services and tools I worked on
+        Training on Services and tools
       </p>
       <ol
         className="aos-removal-class"
