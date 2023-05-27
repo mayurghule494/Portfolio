@@ -1,7 +1,7 @@
 {
-  "short_name": "Samarpan Dasgupta Portfolio",
-  "name": "Samarpan Dasgupta Portfolio",
-  "author": "Samarpan Dasgupta",
+  "short_name": "Mayur Ghule Portfolio",
+  "name": "Mayur Ghule Portfolio",
+  "author": "Mayur Ghule",
   "version": "1.8",
   "description": "Flutter and MERN/FERN Stack Developer From India.",
   "icons": [
@@ -21,7 +21,7 @@
   "theme_color": "#fff",
   "background_color": "#fff",
   "developer": {
-    "name": "Samarpan Dasgupta",
+    "name": "Mayur Ghule",
     "url": "https://www.samarpandasgupta.com/"
   },
   "manifest_version": 3
