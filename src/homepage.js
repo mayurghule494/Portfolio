@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import Typewriter from "typewriter-effect";
 import CommonComponent from "./commonsection/common";
-import samarpan_dasgupta_pic from "./images/samarpan_dasgupta.png";
+import samarpan_dasgupta_pic from "./images/mayur_ghule.png";
 import { getAllProjectCategory } from "./project/helper/api_call";
 
 const HomeComponent = () => {
@@ -22,7 +22,7 @@ const MiddleSection = () => {
     <div className="container bg-home-section" align="center">
       <img
         src={samarpan_dasgupta_pic}
-        alt="Samarpan Dasgupta Logo"
+        alt="Mayur Ghule Logo"
         data-aos="zoom-in"
         data-aos-duration="1000"
         data-aos-delay="1000"
@@ -59,13 +59,13 @@ const AutoTypingHelper = () => {
       <Typewriter
         options={{
           strings: [
-            "Developer From India",
-            "I am a full-time Software Developer",
-            "Love to create apps using Flutter",
-            "Also works on full stack Web Development",
-            "Love to create Web App",
-            "Works with making and managing APIs",
-            "Creating content as Youtuber",
+            "DevOps Engineer From India",
+            "I am a full-time DevOps Engineer",
+            "Love to play with DevOps tools",
+            "Also works AWS Services",
+            "Love to learn new technologies",
+            "Collaborate with developers",
+            "Techical blogger",
           ],
           autoStart: true,
           loop: true,
