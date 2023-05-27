@@ -4,55 +4,42 @@ import CustomSkeleton from "./helper/customskeleton";
 
 const SkillSetComponent = () => {
   const skillDataSet = {
-    Frontend: {
+    Cloud: {
       category: 3,
       all_categories: {
-        Web: [
-          "HTML5",
-          "CSS3",
-          "Javascript",
-          "React.js",
-          "Next.js",
-          "Bootstrap",
-          "Tailwind CSS",
-          "Material UI",
+        AWS: [
+          "EC2",
+          "VPC",
+          "ELB",
+          "CloudFormation",
+          "Autoscaling",
+          "RDS",
+          "Cloudwatch",
+          "S3",
         ],
-        Mobile: ["Flutter"],
-        "State Management": ["Redux", "Provider"],
+        "Web Server": ["Nginx, IIS"],
+        "Virtualization": ["Oracle", "Vagrant"],
       },
     },
-    Backend: {
+    "DevOps Tools Used": {
       category: 1,
       all_categories: {
-        Backend: ["Node.js", "Express.js", "REST APIs", "Flask"],
-        // Mobile: ["Flutter"],
+        "Tools Used": ["Git and GitHub", "Jenkins", "Bamboo", "Teamcity", "Ansible", "Docker", "Repliweb", "Terraform", "Kubernetes", "Grafana"],
       },
     },
-    "Data Science": {
+    "Databases": {
       category: 1,
       all_categories: {
-        "Data Science": ["Pandas", "Numpy", "seaborn", "matplotlib"],
-      },
-    },
-    Database: {
-      category: 1,
-      all_categories: {
-        Database: ["Firebase", "MongoDB", "SQLite", "MySQL"],
-      },
-    },
-    "Tools Used": {
-      category: 1,
-      all_categories: {
-        "Tools Used": ["NPM", "Github", "Coggle", "Jira", "Canva"],
+        Database: ["MySQL", "MongoDB"],
       },
     },
     "Other Skills": {
       category: 1,
       all_categories: {
         "Other Skills": [
-          "Mobile First Design",
-          "Story Writing",
-          "Video Editing",
+          "AWS DevOps Trainer",
+          "Techical blogger on linkedin",
+          "Sports lover",
         ],
       },
     },
